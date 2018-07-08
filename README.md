@@ -94,5 +94,25 @@ IT 관련 영어 면접 데이터 셋
   |     2830, 2985     | The applet is a small Internet-based program written in Java. Applets can also be run as HTML. The applet is usually embedded in the HTML page of the website and can be executed within the browser. |
   |  3093, 3716, 4329  | A session is a semi-permanent interactive information interchange. A session is set up or established at a certain point in time, and then torn down at some later point. An established communication session may involve more than one message in each direction. |
 
-  
+
+
+
+## English Interview Datasets
+
+영어 면접 질문-대답 데이터 셋
+
+- file : **english interview_180708.xls**
+- 591 Question-Answer Pairs
+- The average number of **sentences** in questions and answers are ***1.04*** and ***3.27***, respectively.
+- The average number of **words** in questions and answers are ***10.14*** and ***55.29***, respectively.
+
+
+
+**Examples**
+
+|                          Question                           |                            Answer                            |
+| :---------------------------------------------------------: | :----------------------------------------------------------: |
+|              Could you tell me about yourself               | Sure, Nice to meet you. My name is Min-Ji Lee currently senior student majoring in Airline service Tourism. I’m the oldest daughter of family with two younger brothers. I’m an outgoing and friendly person who enjoys traveling and meeting. I think I’m natural born flight attendant because I can make such bright smile on my face all the time. |
+| Have you ever been in difficult situation  while traveling? | I have been to Hong Kong during the summer season. It was very muggy and humid.  So it was very difficult to travel. But thanks to the traveling, I am not easily affected by hot weather and I can enjoy summer now. |
+|          What were your failures in your last job?          | One of the failures that I encountered in the company  was during the product launching of a new set of mobile phones that was targeted for the female segment of our consumer market.  I concluded that with the new design and user functions that we have developed,  we will be able to capture a major portion of this market and increase our profitability by as much as Unfortunately,  our competitor launched a similar type of product for much lower price and we lost our competitive edge in the market.  This experience taught me the importance of understanding our competitor‘s behavior when planning strategies. |
 
